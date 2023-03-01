@@ -1,0 +1,41 @@
+@media(max-width:1250px){/*Nos permite tener el control de la pantalla*/
+    .wrap{
+        width: 90%;
+        margin: 0px auto;
+    }
+    #banner hi{
+        width: 100%;
+        font-size: 35px;
+        text-align: center;
+        margin: 180px auto;
+        margin-left: -120px;
+    }
+    .card{
+        width: 17%;
+        margin: 5.45px;
+        margin-top: -120px;
+        margin-left: 15px;
+    }
+    .card p{
+        display: block;
+        width: 90%;
+        margin: 0px auto;
+        text-align: center;
+    }
+    #articles{
+        width: 65%;
+    }
+    #articles article{
+        width: 97%;
+    }
+    #footer .wrap>div{
+        width: 26%;
+    }
+    footer h5{
+        font-size: 30px;
+    }
+    #footer ul{
+        font-size: 20px;
+    }
+    
+}
